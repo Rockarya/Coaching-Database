@@ -33,10 +33,3 @@ Note: If python library "tabulate" is not pre-installed, then install it by runn
 	   have the access to the database (COACHING).
 	b. Since various IDs have a peculiar format, it is advised to first use view function in order 	  to be sure with inputs(Case sensitive!).
 	c. To make database cleaner and easier to use, we have made few changes in the database when 	compared to the ones in the phases 1,2 & 3.
-
-
-REMAINING IMPLEMENTATIONS:-
-1)Implement search using LIKE operator.
-2)Implement Domain Constraint using regx..(python)
-3)Implement multi-valued attribute.
-	
